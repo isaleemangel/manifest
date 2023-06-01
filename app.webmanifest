@@ -1,0 +1,33 @@
+{
+  "background_color": "#ffffff",
+  "description": "Jadeed Lab is proud to be introduced as a modern indenting house and engineering service provider in Pakistan. There is nothing impossible, we will repair any instrument professionally at your site.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Jadeed Lab",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Jadeed Lab",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "https://www.jadeedlab.com/favicon.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfF83DMvVYAeyd2fhTmwRTCyDYhIud5F54XFllN0kBSS6-Yve0TrN7pQSbrwIOTU4Tx_KZTK6WagrNLsyDTwMT6VmFnPpKEtgVl_cwpOdk6QyJYinbPAbD6vCoAnObHI40f6Ish2sZP2PvlJdah3ZxBzMMv8XUvmWMDV_JMAqbZAlKr2CX1Nmxuy8H/w1200-h630-p-k-no-nu/EBT-2PL-Tablet-Tester-2.png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7AQasbksJWnBWaKmj-tOEAv6M5440QEs031hZVq4AIwpzQ-SEZWSk7zJ2ekpkVtTEbfyEXymBrpTl0e7GAd2-PJc8dYaBB3ip5LQTjClFsK0rdXR8VIxXc1qBZ5oXAmwLITnER513PX37CCNKVlPfW9wHyUhhAowBfpxy_Z1bbOubXySyucWqCawG/w1200-h630-p-k-no-nu/Jadeed%20lab%20dissolution.png",
+      "type": "image/png",
+      "sizes": "1200x630"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": []
+}
